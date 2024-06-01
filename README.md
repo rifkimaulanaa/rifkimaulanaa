@@ -7,4 +7,4 @@ Saya seorang Mahasiswa<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://instagram.com/rifkimaulana._._?igshid=YTQwZjQ0NmI0OA==) ku ya.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkimaulanaa&show_icons=true&theme=radical)
